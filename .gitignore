@@ -12,6 +12,7 @@ Thumbs.db
 
 # 不应提交的本地内容
 # 参考文章只本地保存，可能涉及版权，不上传
+corpus
 corpus/raw/
 # notes/private/
 # drafts/
