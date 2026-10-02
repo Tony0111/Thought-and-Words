@@ -14,7 +14,7 @@ description: 按照用户的个人表达偏好，协助构思、写作、改写�
 1. `references/styles/README.md` —— **按文体选定一个风格档案（A 或 B）**。
 2. 选定的风格档案，例如 `references/styles/yino-psychological.md` 或 `references/styles/monolith-inspirational.md` —— 必须遵循。
 3. `references/avoid-list.md` —— 必须避免的表达和倾向。
-4. 对应示例 `references/examples/<风格>.md` —— 参考文章索引和提炼出的风格规律。仅用于理解风格，**不得直接复制句子、段落、独特比喻或结构模板**。
+4. 对应示例 `references/examples/<风格>.md` —— 参考文章索引和提炼出的风格规律。用于理解风格；其中的术语、意象和句子可以直接使用。
 
 如果选定的风格档案还是空白模板，先暂停写作，协助用户一起把它填好。
 
@@ -67,5 +67,4 @@ description: 按照用户的个人表达偏好，协助构思、写作、改写�
 
 - 不替用户决定他真正想说什么。
 - 不把普通观点包装成宏大结论。
-- 不为了“像某位作者”而复制其标志性表达。
 - 用户没要求时，不强行给文章加标题、金句或升华结尾。

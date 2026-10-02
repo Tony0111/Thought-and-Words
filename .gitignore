@@ -15,7 +15,8 @@ Thumbs.db
 corpus
 corpus/raw/
 # notes/private/
-# drafts/
+# 草稿含个人经历，只保留在本地
+drafts/
 
 # 依赖
 node_modules/

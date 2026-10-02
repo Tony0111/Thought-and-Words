@@ -29,7 +29,7 @@
 ## 共用的东西
 
 - 写作流程与边界：`../SKILL.md`
-- 禁止清单（AI 味 + 两位作者的标志性表达）：`../avoid-list.md`
+- 禁止清单（AI 味 + 事实底线）：`../avoid-list.md`
 - 写前 brief 模板：`../../templates/article-brief.md`
 
 ## 加一个新风格
