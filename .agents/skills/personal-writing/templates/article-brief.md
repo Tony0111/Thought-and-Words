@@ -6,6 +6,7 @@
 
 - 工作标题：
 - 文体：（随笔 / 评论 / 教程 / newsletter / 其他）
+- 风格档案：（A 心理哲学 / B 科技事业激励 —— 见 references/styles/README.md）
 - 目标读者：
 - 期望长度：
 - 发布渠道：
