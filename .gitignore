@@ -10,9 +10,10 @@ Thumbs.db
 *.bak
 *~
 
-# 不应提交的本地内容（按需解开注释）
+# 不应提交的本地内容
+# 参考文章只本地保存，可能涉及版权，不上传
+corpus/raw/
 # notes/private/
-# corpus/raw/
 # drafts/
 
 # 依赖
