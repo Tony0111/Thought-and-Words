@@ -4,23 +4,25 @@ Thumbs.db
 .idea/
 .vscode/
 *.swp
+.stfolder/
+.stignore
 
 # 临时文件
 *.tmp
 *.bak
 *~
 
-# 不应提交的本地内容
-# 参考文章只本地保存，可能涉及版权，不上传
-corpus
-corpus/raw/
-# notes/private/
-# 草稿含个人经历，只保留在本地
-drafts/
+# 作品区：一个作品一个文件夹，全部只留在本地
+works/
+
+# 素材收件箱：个人素材不上传
+notes/*
+!notes/README.md
+
+# 参考语料可能涉及版权，不上传
+corpus/
 
 # 依赖
 node_modules/
 __pycache__/
 .venv/
-
-published

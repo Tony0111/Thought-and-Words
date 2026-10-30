@@ -5,21 +5,22 @@
 ## 0. 准备阶段（只做一次）
 
 1. 往 `corpus/raw/` 放 5–10 篇你最认可的文章。
-2. 让 AI 逐篇分析，产出 `favorite-examples.md` 的提炼结果。
-3. 人工确认，把可执行的特征写进 `style-guide.md`。
-4. 把每次让你皱眉的 AI 味表达补进 `avoid-list.md`。
+2. 让 AI 逐篇分析，把提炼结果写进 `references/examples/<风格>.md`。
+3. 人工确认，把可执行的特征写进 `references/styles/<风格>.md`。
+4. 把每次让你皱眉的 AI 味表达补进 `references/avoid-list.md`。
 
 之后每次写作都直接用这份风格系统，不需要重复丢原文。
 
 ## 1. 起稿
 
-1. 复制 `templates/article-brief.md` 到 `drafts/`，填好。
-2. 调用 skill：`/skill:personal-writing`，把 brief 给它。
-3. AI 先给结构，你确认后再写正文。
+1. 新建作品文件夹 `works/<作品名>/`（命名与阶段约定见 `works.md`）。
+2. 复制 `templates/article-brief.md` 到该文件夹，命名为 `01-brief.md`，填好。
+3. 调用 skill：`/skill:personal-writing`，把 brief 给它。
+4. AI 先给结构，你确认后再写正文。
 
 ## 2. 初稿
 
-- AI 按 `style-guide.md` 写，优先使用 brief 里的真实素材。
+- AI 按风格档案写，写入该作品的 `10-初稿.md`（变体用 `11-`、`12-`）。
 - 不虚构经历、数据、引语和观点。
 - 拿不准的地方标「待确认」。
 
@@ -41,7 +42,7 @@
 ## 5. 第二轮编辑
 
 - 只做语言和节奏调整，不改变观点和事实。
-- 定稿后移入 `published/`。
+- 定稿就地另存为 `80-终稿.md`，不搬家；发了以后在 `81-发布记录.md` 里记一笔。
 
 ## 一句话总结
 
