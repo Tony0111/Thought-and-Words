@@ -4,6 +4,7 @@
 
 ## 基本信息
 
+- 项目文件夹：works/<作品名>/
 - 工作标题：
 - 文体：（随笔 / 评论 / 教程 / newsletter / 其他）
 - 风格档案：（A 心理哲学 / B 科技事业激励 / C 鲁迅 / D 毛泽东 —— 见 references/styles/README.md）
